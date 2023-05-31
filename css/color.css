@@ -1,0 +1,100 @@
+.sticky,
+.portfolio-item:hover,
+.blog-item:hover,
+.banner-4 .bnr-btn ul li a:hover,
+.banner-4 .bnr-btn .list-inline-item:not(:last-child) a:hover,
+.navcolor .quote-btn,
+.blog-item-date,
+.service-item:hover,
+.post-password-form p input[type=submit],
+.banner .bnr-social ul li a:hover,
+.banner .bnr-btn ul li a:hover,
+.pagination .prev,
+.pagination .next,
+.portfolio-overview,
+.pricing-item .pricing-card a,
+.seo-form input[type=submit],
+.portfolio-sec .prevPortfolio,
+.single_item_content,
+.felipa-btn input,
+.blog-item-shape:hover .blog-item-shape-content,
+.dropdown-item.active,
+.portfolio-filter li.select-cat,
+.feature-item:hover .feature-item-icon,
+.post-navigation:hover,
+.widget.widget_tags a:hover,
+.service-item:hover,
+.dropdown-item:focus,
+.dropdown-item:hover,
+.navbar .dropdown .current-menu-item a,
+.felipa-btn a,
+.single_item_content,
+.comment-form button,
+.wp-block-button__link,
+.dropdown-item.active,
+.dropdown-item:active,
+.excerpt-date,
+.team:hover,
+.footer-social ul li a:hover,
+.footer-call-to-action a,
+.banner-3 a,
+.alt-color a,
+.portfolio-sec .nextPortfolio,
+.mc4wp-form-fields input[type=submit],
+.portfolio-overview>a,
+.pricing-item .pricing-card,
+.select-cat {
+    background-color: #696df3;
+}
+
+.blog-btn,
+.portfolio-item span,
+#backtotop i,
+.banner .bnr-btn .list-inline-item:not(:last-child) a,
+.excerpt-item h5:hover,
+.contact-item i,
+.quote-btn:hover,
+.service-item-3 i,
+.service-item i,
+.search-form button,
+.widget ul li a:hover,
+.widget ul li:hover,
+.widget.widget_recent_post ul li a:hover,
+.feature-item-icon i,
+.bnr-counter ul li span,
+.service-item i,
+.footer-call-to-action span,
+.slick-dots li.slick-active button:before,
+.pricing-item .pricing-features span,
+.section-title h1 span,
+#cancel-comment-reply-link,
+.comment-reply-link,
+.logged-in-as a,
+.section-title>span,
+.banner p span {
+    color: #696df3;
+}
+
+.blog-btn,
+.banner-4 .bnr-btn ul li a:hover,
+.banner-4 .bnr-btn .list-inline-item:not(:last-child) a:hover,
+.uil-ripple-css div,
+.feature-item-icon {
+    border-color: #696df3;
+}
+
+
+
+@media (max-width: 768px) {
+
+    .breadcrumb-content {
+        background-color: #696df3;
+    }
+}
+
+@media (max-width: 414px) {
+    .breadcrumb-bnr {
+        background-color: #696df3;
+    }
+
+}
