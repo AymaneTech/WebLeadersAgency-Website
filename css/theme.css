@@ -18,7 +18,7 @@
   15 Widget
   16 Footer
 */
-@import url('http://fonts.googleapis.com/css?family=K2D:100,200,300,400,500,600,700,800|Open+Sans:300,400,600,700,800');
+@import url('http://fonts.googleapis.com/css?family=K2D:10.custom-logo-link img, .sticky-logo img0,200,300,400,500,600,700,800|Open+Sans:300,400,600,700,800');
 body {
     line-height: 28px;
     font-family: Open Sans;
@@ -377,8 +377,9 @@ body.admin-bar .fixed-top {
 }
 .custom-logo-link img,
 .sticky-logo img {
-    height: 100%;
-    width: 100px;
+    height: 45px;
+    width: 100%;
+    margin-right: 20px;
 }
 .sticky-logo {
     display: none;
@@ -760,8 +761,8 @@ body.admin-bar .fixed-top {
 /***************************
         Button
 ****************************/
-.felipa-btn a,
-.felipa-btn input {
+.Web Leaders-btn a,
+.Web Leaders-btn input {
     color: #fff;
     padding: 10px 30px;
     border-radius: 3px;
@@ -773,8 +774,8 @@ body.admin-bar .fixed-top {
 }
 
 .footer-call-to-action a:hover,
-.felipa-btn input:hover,
-.felipa-btn a:hover {
+.Web Leaders-btn input:hover,
+.Web Leaders-btn a:hover {
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
@@ -1625,23 +1626,23 @@ body.admin-bar .fixed-top {
     cursor: pointer;
 }
 
-.widget.widget_felipa_recent_post img {
+.widget.widget_Web Leaders_recent_post img {
     float: left;
     margin-right: 15px;
 }
 
 
-.widget.widget_felipa_recent_post ul li:not(:last-child) {
+.widget.widget_Web Leaders_recent_post ul li:not(:last-child) {
     margin-bottom: 25px;
 }
-.widget.widget_felipa_recent_post ul li a {
+.widget.widget_Web Leaders_recent_post ul li a {
     line-height: 20px;
     overflow: hidden;
     display: inline-block;
     color: #1e0e6a;
 }
 
-.widget.widget_felipa_recent_post p {
+.widget.widget_Web Leaders_recent_post p {
     margin-bottom: 0;
     line-height: 22px;
     font-size: 16px;
@@ -1674,7 +1675,7 @@ body.admin-bar .fixed-top {
     float: right;
 }
 
-.widget.widget_felipa_recent_post span {
+.widget.widget_Web Leaders_recent_post span {
     color: #666666;
     font-size: 14px;
     float: left;
@@ -1717,7 +1718,7 @@ body.admin-bar .fixed-top {
     border: none;
 }
 
-.contact-form .felipa-btn input {
+.contact-form .Web Leaders-btn input {
     border: none;
 }
 
@@ -2543,7 +2544,7 @@ body.admin-bar .fixed-top {
         margin-bottom: 0;
     }
 
-    .widget_felipa_recent_post {
+    .widget_Web Leaders_recent_post {
         margin-top: 100px;
     }
 

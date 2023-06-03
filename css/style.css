@@ -1,0 +1,97 @@
+.team-members .section-title{
+  display: flex;
+  justify-content: center;
+}
+.description{
+  display: flex;
+  justify-content: center;
+  line-height: 50px;
+}
+.happy-team{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.team-img img{
+  border: 10px solid #696df3;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+.team-name{
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-card .team-details{
+  line-height: 35px;
+}
+.job-title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social-media{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social-media ul li i{
+  color: #696df3;
+}
+.social-media ul li i:hover{
+  color: #007bff;
+  transition: 0.5s;
+}
+.details-button button{
+  background-color: #696df3;
+  color: #fff;
+  font-weight: 600;
+  width: 150px;
+  height: 40px;
+  border: none;
+  border-radius: 40px;
+  margin-top: 30px;
+}
+
+.details-button button:hover{
+  color: #696df3;
+  background-color: #fff;
+  transition: 0.5s;
+  margin-top: 3px;
+}
+.service-item img{
+  color: #696df3;
+}
+.who-are h2{
+  display: flex;
+  justify-content: start;
+  color: #696df3;
+  font-size: 50px;
+  font-weight: 600;
+  margin-bottom: 3rem;
+}
+.introduction{
+  border: 2px solid #696df3;
+  margin: 3rem 16rem 3rem 16rem;
+  border-radius: 15px;
+  padding: 3rem;
+}
+.felipa-btn input {
+  background: #696df3;
+  border: none;
+  border-radius: 50px;
+  width: 150px;
+  height: 45px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
+.felipa-btn input:hover{
+  color: #696df3;
+  background: #fff;
+  transition: 0.5s;
+  border: 3px solid #696df3;
+  margin-bottom: 5px;
+}
